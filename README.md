@@ -1,5 +1,6 @@
 # Projeto: Educação Financeira e Conscientização para Pagamento de Financiamento Habitacional
 Desafio CAIXA – Criando Impacto Social com IA 
+Por Carolina Ladeia
 
 # Para o projeto foram desenvolvidos com IA:
 - Documento com a explicação do projeto
