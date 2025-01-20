@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./podcast_leonardo.jpeg"
+    width="300"
+/>
+</p>
+
 # Projeto: Educação Financeira e Conscientização para Pagamento de Financiamento Habitacional
 Desafio CAIXA – Criando Impacto Social com IA 
 Por Carolina Ladeia
@@ -19,7 +26,7 @@ O site da CAIXA disponibiliza imóveis à venda retomados judicialmente por falt
 Embora o site da CAIXA, Aplicativo de Habitação e Canais de Atendimento tragam informações claras e relevantes para que não seja necessário chegar nesse ponto de perder o imóvel, ainda existe o pensamento popular que, por ser um banco do governo, a retomada é mais difícil, que pode continuar morando se não sair do imóvel, enfim, que pode dever que nada vai acontecer ou que não aparecerão compradores, mas do outro lado do "devo não nego, pago quando puder", há gente se especializando em comprar esse tipo de imóvel.
 
 # Solução Resumida:
-Realizar parcerias com ONGs locais para fazer um trabalho de conscientização e educação financeira para que as pessoas de baixa renda moradoras de conjuntos habitacionais financiados pela CAIXA não percam sua moradia por falta de informação.
+Realizar parcerias com ONGs locais para fazer um trabalho de conscientização e educação financeira para que as pessoas de baixa renda moradoras de conjuntos habitacionais financiados pela CAIXA não percam sua moradia por falta de informação. Identificar através de IA os conjuntos habitacionais com mais ocorrências de atraso no pagamento e atuar prioritariamente.
 
 # Resultado Esperado:
 Que essas pessoas consigam pagar, renegociar e/ou quitar seus imóveis através da educação financeira e que a CAIXA economize em trâmites de retomada.
@@ -66,7 +73,7 @@ ChatGPT：Documento do Projeto
 
 |  Ação    |prompt                                                                                 
 | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| conteúdo | Baseado no ebook sobre finaciamento habitacional, elabore um projeto com descrição clara para o desafio Caixa – Criando Impacto Social com IA. O público alvo são clientes que financiaram seus imóveis na Caixa e moram em conjuntos habitacionais do minha casa minha vida. A ideia é usar ongs locais para conscientizar esse público alvo sobre como pagar mais rápido o financiamento.|                                                                                          |
+| conteúdo | Baseado no ebook sobre financiamento habitacional, elabore um projeto com descrição clara para o desafio Caixa – Criando Impacto Social com IA. O público alvo são clientes que financiaram seus imóveis na Caixa e moram em conjuntos habitacionais do minha casa minha vida. A ideia é usar ongs locais para conscientizar esse público alvo sobre como pagar mais rápido o financiamento.|                                                                                          |
 
 Leonardo.ai：Imagem utilizada no Documento do Projeto
 
