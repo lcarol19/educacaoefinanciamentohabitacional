@@ -41,17 +41,19 @@ ChatGPT：Contrução do Ebook
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | conteúdo | Faça um ebook com linguagem simples e direta sobre como pagar mais rápido um financiamento habitacional. Aborde os tópicos amortização, tipo, vantagem e prazo, liquidação, uso de recursos próprios ou FGTS, renegociação de dívida, informe o que é mais vantajoso para que o imóvel não seja retomado. Explique o processo de retomada do imóvel. Foque nos clientes do programa Minha Casa Minha Vida da Caixa Econômica. Escreva um ebook sobre as possibilidades para pagar mais rápido um financiamento habitacional com linguagem simples, clara e direta para um público alvo de baixa renda. Aborde os tópicos: - Uso do FGTS na amortização e liquidação, tenha como fonte o site da Caixa Econômica e as regras regidas pelo  Conselho Curador do FGTS para utilização com prazos. - Amortização e liquidação com recursos próprios. - Renegociação do financiamento habitacional com regras baseado no site da Caixa. - Retomada do imóvel por falta de pagamento|
 
+
 Gemini: Ilustração do Ebook
 
 |  Ação    |prompt                                                                                 
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  imagem  | Crie uma imagem de um bairro de casas térreas brasileiras simples, iguais, com garagem, aspecto habitável com dignidade, com calçada e ruas largas, como se fosse um quadro pintado em aquarela para um ebook profissional de uma instituição financeira|
 
+
 ChatGPT：Fala para a criação do vídeo
 
 |  Ação    |prompt                                                                                 
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| conteúdo | Transforme o guia criado em fala de uma única pessoa para um vídeo. Diminua o texto para até 2000 caracteres|
+| conteúdo | Transforme o guia criado em fala de uma única pessoa para um vídeo. Diminua o texto para até 2000 caracteres                                                                                           |
 
 Leonardo.ai：
 
