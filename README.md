@@ -22,7 +22,7 @@ Embora o site da CAIXA, Aplicativo de Habitação e Canais de Atendimento tragam
 Realizar parcerias com ONGs locais para fazer um trabalho de conscientização e educação financeira para que as pessoas de baixa renda moradoras de conjuntos habitacionais financiados pela CAIXA não percam sua moradia por falta de informação.
 
 # Resultado Esperado:
-Que essas pessoas consigam pagar, renegociar e/ou quitar seus imóveis e que a CAIXA economize em trâmites de retomada.
+Que essas pessoas consigam pagar, renegociar e/ou quitar seus imóveis através da educação financeira e que a CAIXA economize em trâmites de retomada.
 
 
 
@@ -35,10 +35,11 @@ Que essas pessoas consigam pagar, renegociar e/ou quitar seus imóveis e que a C
 - [Gamma.app](https://gamma.app/)
 - [Heygen](https://app.heygen.com/)
 
-Todos os prompts seguem abaixo:
+
 
 ## 🧠 Prompts
 
+Todos os prompts seguem abaixo:
 
 ChatGPT：Contrução do Ebook
 
