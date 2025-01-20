@@ -42,38 +42,40 @@ ChatGPT：Contrução do Ebook
 | conteúdo | Faça um ebook com linguagem simples e direta sobre como pagar mais rápido um financiamento habitacional. Aborde os tópicos amortização, tipo, vantagem e prazo, liquidação, uso de recursos próprios ou FGTS, renegociação de dívida, informe o que é mais vantajoso para que o imóvel não seja retomado. Explique o processo de retomada do imóvel. Foque nos clientes do programa Minha Casa Minha Vida da Caixa Econômica. Escreva um ebook sobre as possibilidades para pagar mais rápido um financiamento habitacional com linguagem simples, clara e direta para um público alvo de baixa renda. Aborde os tópicos: - Uso do FGTS na amortização e liquidação, tenha como fonte o site da Caixa Econômica e as regras regidas pelo  Conselho Curador do FGTS para utilização com prazos. - Amortização e liquidação com recursos próprios. - Renegociação do financiamento habitacional com regras baseado no site da Caixa. - Retomada do imóvel por falta de pagamento|
 
 
-Gemini: Ilustração do Ebook
+Gemini: Imagem utilizada no Ebook e Documento do Projeto
 
 |  Ação    |prompt                                                                                 
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  imagem  | Crie uma imagem de um bairro de casas térreas brasileiras simples, iguais, com garagem, aspecto habitável com dignidade, com calçada e ruas largas, como se fosse um quadro pintado em aquarela para um ebook profissional de uma instituição financeira|
 
 
-ChatGPT：Fala para a criação do vídeo
+ChatGPT：Fala para a criação do Vídeo
 
 |  Ação    |prompt                                                                                 
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| conteúdo | Transforme o guia criado em fala de uma única pessoa para um vídeo. Diminua o texto para até 2000 caracteres                                                                                           |
+| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| conteúdo | Transforme o guia criado em fala de uma única pessoa para um vídeo. Diminua o texto para até 2000 caracteres.|
 
-Leonardo.ai：
 
-|  Ação  | prompt                                                                                                                                                                          |
-| :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| imagem | Crie uma imagem para um ebook sobre a linguagem de programação Cobol com público alvo jovens universitários de tecnologia. A imagem deve conter o desenho de um terminal 32x70. |
+ChatGPT：Documento do Projeto
 
-Gamma.app：
+|  Ação    |prompt                                                                                 
+| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| conteúdo | Baseado no ebook sobre finaciamento habitacional, elabore um projeto com descrição clara para o desafio Caixa – Criando Impacto Social com IA. O público alvo são clientes que financiaram seus imóveis na Caixa e moram em conjuntos habitacionais do minha casa minha vida. A ideia é usar ongs locais para conscientizar esse público alvo sobre como pagar mais rápido o financiamento.|                                                                                          |
 
-|  Ação  | prompt                                                                                                                                                            |
-| :----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| imagem | Um dinossauro estilizado em tons de cinza elegante, representando a linguagem de programação COBOL e sua história de desenvolvimento para aplicações de negócios. |
+Leonardo.ai：Imagem utilizada no Documento do Projeto
+
+|  Ação  | prompt                                                                                                                                                                          
+| :----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| imagem | Crie uma imagem de um bairro de casas térreas brasileiras simples, iguais, com garagem, aspecto habitável com dignidade, com calçada e ruas largas, com uma família feliz na frente de uma das casas. |
+
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagem do computador gerada via Leonardo.ai
-- Imagem logo dinossauro via Gamma.app
-- Criação do Ebook via Gamma.app
-- Edição do Ebook no PowerPoint
+- Conteúdo do Ebook, Documento do Projeto e fala do Vídeo gerados via ChatGPT
+- Imagens das casas com família feliz usadas no Documento do Projeto geradas via Leonardo.ia
+- Imagem do bairro com casas iguais usada no Ebook e Documento do Projeto gerada via Gemini
+- Criação do Ebook e Documento do Projeto via Gamma.app
+
 
 
 
