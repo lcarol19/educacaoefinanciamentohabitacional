@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./podcast_leonardo.jpeg"
+    src="./Gemini_casas.jpeg"
     width="300"
 />
 </p>
