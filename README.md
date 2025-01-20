@@ -23,7 +23,7 @@ Por Carolina Ladeia
 
 # Motivação:
 O site da CAIXA disponibiliza imóveis à venda retomados judicialmente por falta de pagamento. Percebi que há casos de endereços praticamente iguais, ou seja, ocorrências em um mesmo empreendimento ou conjunto habitacional. 
-Embora o site da CAIXA, Aplicativo de Habitação e Canais de Atendimento tragam informações claras e relevantes para que não seja necessário chegar nesse ponto de perder o imóvel, ainda existe o pensamento popular que, por ser um banco do governo, a retomada é mais difícil, que pode continuar morando se não sair do imóvel, enfim, que pode dever que nada vai acontecer ou que não aparecerão compradores, mas do outro lado do "devo não nego, pago quando puder", há gente se especializando em comprar esse tipo de imóvel.
+Embora o site da CAIXA, Aplicativo de Habitação e Canais de Atendimento tragam informações claras e relevantes para que não seja necessário chegar nesse ponto de perder o imóvel, ainda existe o pensamento popular que, por ser um banco do governo, a retomada é mais difícil, que pode continuar morando sem pagar, enfim, que pode dever que nada vai acontecer ou que não aparecerão compradores, mas do outro lado do "devo não nego, pago quando puder", há gente se especializando em comprar esse tipo de imóvel.
 
 # Solução:
 Realizar parcerias com ONGs locais para fazer um trabalho de conscientização e educação financeira para que as pessoas de baixa renda moradoras de conjuntos habitacionais financiados pela CAIXA não percam sua moradia por falta de informação. Identificar através de IA os conjuntos habitacionais com mais ocorrências de atraso no pagamento e atuar prioritariamente.
