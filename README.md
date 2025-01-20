@@ -2,9 +2,16 @@
 Desafio CAIXA – Criando Impacto Social com IA 
 
 # Para o projeto foram desenvolvidos com IA:
-- Documento pdf com a explicação do projeto
+- Documento com a explicação do projeto
+  <a href="https://github.com/lcarol19/educacaoefinanciamentohabitacional/blob/main/proj_ef_financhab.pdf" title="View PDF now"> 📘Clique aqui para ler</a>
+  
 - Ebook educacional sobre como pagar mais rápido o financiamento habitacional
+  <a href="https://github.com/lcarol19/educacaoefinanciamentohabitacional/blob/main/ebook_ef_financhab.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+  
 - Vídeo educacional sobre como pagar mais rápido o financiamento habitacional
+  <a href="https://github.com/lcarol19/educacaoefinanciamentohabitacional/blob/main/video_ef_financhab.mp4"> 🎥Clique aqui para ver</a>
+
+ > ℹ️ **NOTA:** A fonte de todo conteúdo gerado é pública.
 
 # Motivação:
 O site da CAIXA disponibiliza imóveis à venda retomados judicialmente por falta de pagamento. Percebi que há casos de endereços praticamente iguais, ou seja, ocorrências em um mesmo empreendimento ou conjunto habitacional. 
@@ -17,11 +24,6 @@ Realizar parcerias com ONGs locais para fazer um trabalho de conscientização e
 Que essas pessoas consigam pagar, renegociar e/ou quitar seus imóveis e que a CAIXA economize em trâmites de retomada.
 
 
- > ℹ️ **NOTA:** A fonte de todo conteúdo gerado é pública.
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
-
-<a href="https://github.com/lcarol19/prompts-recipe-to-create-a-ebook/blob/main/Explorando-a-linguagem-COBOL.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -31,6 +33,8 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 - [Leonardo.ai](https://app.leonardo.ai//) 
 - [Gamma.app](https://gamma.app/)
 - [Heygen](https://app.heygen.com/)
+
+Todos os prompts seguem abaixo:
 
 ## 🧠 Prompts
 
@@ -75,6 +79,7 @@ Leonardo.ai：Imagem utilizada no Documento do Projeto
 - Imagens das casas com família feliz usadas no Documento do Projeto geradas via Leonardo.ia
 - Imagem do bairro com casas iguais usada no Ebook e Documento do Projeto gerada via Gemini
 - Criação do Ebook e Documento do Projeto via Gamma.app
+- Criação do Vídeo via Heygen
 
 
 
